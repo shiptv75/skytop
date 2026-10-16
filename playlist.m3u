@@ -116,15 +116,23 @@
 #EXTINF:-1 tvg-logo="" group-title="news",Ekhon\nhttps://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/index.m3u8#fb:M3U_World_4K\n
 #EXTINF:-1 tvg-logo="" group-title="bangla",Channel S\nhttps://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/index.m3u8#fb:M3U_World_4K\n
 #EXTINF:-1 tvg-logo="" group-title="bangla",Mohona Tv\nhttps://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/index.m3u8#fb:M3U_World_4K\n
-#EXTINF:-1 tvg-logo="" group-title="movies",Zee bangla Cinema\nhttps://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8#fb:M3U_World_4K\n
-#EXTINF:-1 tvg-logo="" group-title="entertainment",Sony Television HD\nhttps://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8#fb:M3U_World_4K\n
-#EXTINF:-1 tvg-logo="" group-title="sports",A Spor\nhttps://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8#fb:M3U_World_4K\n
-#EXTINF:-1 tvg-logo="" group-title="sports",DD sports\nhttps://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8#fb:M3U_World_4K\n
-#EXTINF:-1 tvg-logo="" group-title="sports",FTF sports\nhttps://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8#fb:M3U_World_4K\n
-#EXTINF:-1 tvg-logo="" group-title="sports",Futbol TV (1080p)\nhttps://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8#fb:M3U_World_4K\n
-#EXTINF:-1 tvg-logo="" group-title="sports",GLORY Kickboxing\nhttps://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8#fb:M3U_World_4K\n
-#EXTINF:-1 tvg-logo="" group-title="sports",KTV Sport\nhttps://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8#fb:M3U_World_4K\n
-#EXTINF:-1 tvg-logo="" group-title="sports",MMA TV\nhttps://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="movies",Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="entertainment",Sony Television HD
+https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports",A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports",DD sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports",FTF sports
+https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports",Futbol TV
+https://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports",GLORY Kickboxing
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports",KTV Sport
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports",MMA TV
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="bangla",Jalsha Bangla
 https://dish.porosh.com.bd/hls/jalshabangla.m3u8
